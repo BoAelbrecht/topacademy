@@ -3,6 +3,7 @@ import css from "./Element.module.scss";
 import { storyblokEditable } from "@storyblok/react";
 import { RichTextToHTML } from "../../../functions/storyBlokRichTextRenderer";
 import Link from "next/link";
+/**test comment*/
 
 export default class Element extends Component {
 	constructor(props) {
